@@ -4,6 +4,8 @@ Link directo Streamlit: https://detectoracaras.streamlit.app/
 
 Un sistema de visión artificial en tiempo real que detecta expresiones faciales y gestos manuales para superponer memes dinámicamente en la pantalla. Desarrollado con **Python**, **OpenCV** y **MediaPipe**.
 
+EJECUTAR local.py si estás en pc y main.py para web/móvil(también serviría en pc pero va un poco peor)
+
 ## Funcionalidades
 El sistema utiliza Face Mesh y detección de manos para identificar:
 * **Sorpresa**: Detecta la apertura de la boca para mostrar un meme de shock.
