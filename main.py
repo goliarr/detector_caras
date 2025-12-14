@@ -195,7 +195,7 @@ class VideoProcessor(VideoTransformerBase):
         return av.VideoFrame.from_ndarray(combined, format="bgr24")
 
 # Interfaz
-st.title("Detector de Gestos 📱")
+st.title("Detector de Gestos")
 st.write("Dale permisos a la cámara. Si va lento, asegúrate de tener buena luz.")
 
 webrtc_streamer(
