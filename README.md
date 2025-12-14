@@ -1,4 +1,6 @@
-# 🎭 Interactive Gesture Meme Filter
+# Interactive Gesture Meme Filter
+
+Link directo Streamlit: https://detectoracaras.streamlit.app/
 
 Un sistema de visión artificial en tiempo real que detecta expresiones faciales y gestos manuales para superponer memes dinámicamente en la pantalla. Desarrollado con **Python**, **OpenCV** y **MediaPipe**.
 
